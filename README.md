@@ -43,6 +43,3 @@ Ensure you have `nmap` installed:
 pip install python-nmap
 ```
 
-## Legal Disclaimer
-
-This tool is intended for **educational and authorized security testing only**. Unauthorized scanning of networks **without permission** is illegal and punishable under law.
